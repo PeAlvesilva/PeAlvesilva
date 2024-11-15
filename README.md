@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Pedro Alves
+
+Meu nome é **Pedro Alves**
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem Javascript
